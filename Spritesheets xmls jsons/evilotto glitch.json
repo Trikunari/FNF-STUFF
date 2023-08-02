@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				350
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "evilotto glitch idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				309,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "SINGup",
+			"indices": [],
+			"name": "evilotto glitch up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				350
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "evilotto glitch left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "evilotto glitch down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "evilotto glitch up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				309,
+				350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "evilotto glitch right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/evilotto glitch",
+	"position": [
+		1260,
+		780
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-650,
+		-470
+	],
+	"sing_duration": 2.60000000000001,
+	"scale": 8.99999999999999
+}

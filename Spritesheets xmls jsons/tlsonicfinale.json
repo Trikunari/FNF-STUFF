@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "tlsonicfinale idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "tlsonicfinale loop"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tlsonicfinale right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tlsonicfinale up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-11
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tlsonicfinale down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tlsonicfinale left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tlsonicfinale",
+	"position": [
+		2230,
+		260
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		129,
+		241
+	],
+	"camera_position": [
+		-920,
+		-500
+	],
+	"sing_duration": 3.60000000000001,
+	"scale": 7.00000000000001
+}

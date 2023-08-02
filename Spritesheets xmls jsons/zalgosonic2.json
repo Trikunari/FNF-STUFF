@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "zalgosonic2 idle"
+		},
+		{
+			"offsets": [
+				40,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "zalgosonic2 left"
+		},
+		{
+			"offsets": [
+				8,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "zalgosonic2 right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "zalgosonic2 down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "zalgosonic2 up"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/zalgosonic2",
+	"position": [
+		1100,
+		470
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-630,
+		-320
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 7.99999999999999
+}

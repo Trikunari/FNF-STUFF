@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="otto.png">
+<SubTexture name="otto idle0000" x="0" y="429" width="156" height="78" frameX="-52" frameY="-104" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto idle0001" x="0" y="338" width="130" height="91" frameX="-65" frameY="-91" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto idle0002" x="0" y="130" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto idle0003" x="0" y="0" width="78" height="130" frameX="-91" frameY="-52" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto idle0004" x="104" y="130" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto left0000" x="130" y="338" width="117" height="91" frameX="-39" frameY="-91" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto left0001" x="260" y="0" width="104" height="104" frameX="-65" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto left0002" x="260" y="104" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto up0000" x="78" y="0" width="78" height="130" frameX="-91" frameY="-26" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto up0001" x="156" y="0" width="104" height="117" frameX="-78" frameY="-52" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto up0002" x="0" y="234" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto right0000" x="247" y="338" width="117" height="91" frameX="-104" frameY="-91" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto right0001" x="104" y="234" width="117" height="104" frameX="-91" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto right0002" x="221" y="234" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto down0000" x="156" y="429" width="156" height="78" frameX="-52" frameY="-104" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto down0001" x="468" y="0" width="130" height="91" frameX="-65" frameY="-91" frameWidth="260" frameHeight="260" />
+<SubTexture name="otto down0002" x="364" y="0" width="104" height="104" frameX="-78" frameY="-78" frameWidth="260" frameHeight="260" />
+</TextureAtlas>

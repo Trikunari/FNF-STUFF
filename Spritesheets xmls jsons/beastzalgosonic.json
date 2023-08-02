@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "beastzalgosonic up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "beastzalgosonic right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "beastzalgosonic down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "beastzalgosonic left"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "beastzalgosonic idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/beastzalgosonic",
+	"position": [
+		1510,
+		270
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-650,
+		-470
+	],
+	"sing_duration": 5.99999999999999,
+	"scale": 7.99999999999999
+}

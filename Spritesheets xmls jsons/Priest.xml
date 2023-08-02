@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Priest.png">
+<SubTexture name="Priest idle0000" x="15" y="98" width="15" height="17" frameX="-20" frameY="-18" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest idle0001" x="103" y="78" width="14" height="18" frameX="-20" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest idle0002" x="70" y="76" width="12" height="20" frameX="-21" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest idle0003" x="50" y="28" width="12" height="23" frameX="-21" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest idle0004" x="75" y="23" width="12" height="22" frameX="-21" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest down0000" x="0" y="98" width="15" height="18" frameX="-20" frameY="-17" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest down0001" x="103" y="40" width="14" height="19" frameX="-20" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest down0002" x="82" y="76" width="13" height="20" frameX="-21" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest left0000" x="63" y="0" width="12" height="23" frameX="-18" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest left0001" x="63" y="23" width="12" height="22" frameX="-19" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest left0002" x="52" y="53" width="12" height="22" frameX="-20" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest up0000" x="32" y="0" width="15" height="26" frameX="-21" frameY="-9" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest up0001" x="0" y="28" width="16" height="25" frameX="-19" frameY="-10" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest up0002" x="32" y="28" width="18" height="24" frameX="-18" frameY="-11" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest right0000" x="103" y="0" width="18" height="20" frameX="-22" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest right0001" x="19" y="76" width="17" height="21" frameX="-22" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest right0002" x="64" y="53" width="16" height="22" frameX="-22" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mdown0000" x="89" y="0" width="14" height="22" frameX="-20" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mdown0001" x="89" y="22" width="14" height="22" frameX="-20" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mdown0002" x="103" y="20" width="14" height="20" frameX="-20" frameY="-15" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mdown0003" x="103" y="59" width="14" height="19" frameX="-20" frameY="-16" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mleft0000" x="75" y="0" width="14" height="23" frameX="-16" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mleft0001" x="0" y="53" width="18" height="23" frameX="-14" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mleft0002" x="0" y="76" width="19" height="22" frameX="-12" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mleft0003" x="89" y="44" width="12" height="22" frameX="-19" frameY="-13" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mup0000" x="0" y="0" width="16" height="28" frameX="-19" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mup0001" x="16" y="0" width="16" height="28" frameX="-19" frameY="-7" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mup0002" x="47" y="0" width="16" height="26" frameX="-19" frameY="-9" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mup0003" x="16" y="28" width="16" height="25" frameX="-19" frameY="-10" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mright0000" x="18" y="53" width="18" height="23" frameX="-22" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mright0001" x="36" y="53" width="16" height="23" frameX="-22" frameY="-12" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mright0002" x="36" y="76" width="17" height="21" frameX="-22" frameY="-14" frameWidth="50" frameHeight="50" />
+<SubTexture name="Priest mright0003" x="53" y="76" width="17" height="21" frameX="-22" frameY="-14" frameWidth="50" frameHeight="50" />
+</TextureAtlas>

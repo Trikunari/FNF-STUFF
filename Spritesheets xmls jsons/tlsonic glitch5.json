@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tlsonic glitch5 idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "tlsonic glitch5 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				10
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tlsonic glitch5 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tlsonic glitch5 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-9
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "tlsonic glitch5 left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "tlsonic glitch5 loop"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tlsonic glitch5",
+	"position": [
+		630,
+		260
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		129,
+		241
+	],
+	"camera_position": [
+		-1100,
+		-320
+	],
+	"sing_duration": 2.30000000000001,
+	"scale": 9.99999999999999
+}

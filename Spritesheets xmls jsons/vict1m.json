@@ -1,0 +1,218 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				83,
+				236
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "vict1m idle"
+		},
+		{
+			"offsets": [
+				-87,
+				101
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "vict1m left"
+		},
+		{
+			"offsets": [
+				-107,
+				121
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "vict1m right"
+		},
+		{
+			"offsets": [
+				-122,
+				182
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "vict1m down"
+		},
+		{
+			"offsets": [
+				63,
+				246
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "vict1m up"
+		},
+		{
+			"offsets": [
+				-122,
+				182
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN-alt",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "vict1m down2"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-87,
+				101
+			],
+			"anim": "singLEFT-alt",
+			"fps": 12,
+			"name": "vict1m left2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				121
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 12,
+			"name": "vict1m right2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				246
+			],
+			"anim": "singUP-alt",
+			"fps": 12,
+			"name": "vict1m up2",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/vict1m",
+	"position": [
+		-80,
+		590
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-480,
+		-540
+	],
+	"sing_duration": 4,
+	"scale": 5.00000000000003
+}

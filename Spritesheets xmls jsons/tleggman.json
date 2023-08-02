@@ -1,0 +1,102 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 12,
+			"name": "tleggman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-153,
+				63
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "tleggman left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-15
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "tleggman up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				162,
+				72
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "tleggman right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				63,
+				90
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "tleggman down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				6
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/tleggman",
+	"position": [
+		2710,
+		260
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		129,
+		129,
+		241
+	],
+	"camera_position": [
+		-1040,
+		-880
+	],
+	"sing_duration": 6.5,
+	"scale": 9
+}

@@ -1,0 +1,128 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-463,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Priest left"
+		},
+		{
+			"offsets": [
+				-447,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Priest down"
+		},
+		{
+			"offsets": [
+				-464,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Priest up"
+		},
+		{
+			"offsets": [
+				-464,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Priest right"
+		},
+		{
+			"offsets": [
+				-463,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Priest idle"
+		},
+		{
+			"offsets": [
+				-460,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Priest mleft"
+		},
+		{
+			"offsets": [
+				-463,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Priest mright"
+		},
+		{
+			"offsets": [
+				-463,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Priest mup"
+		},
+		{
+			"offsets": [
+				-447,
+				0
+			],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Priest mdown"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Priest",
+	"position": [
+		-1000,
+		440
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-400,
+		-150
+	],
+	"sing_duration": 8.99999999999999,
+	"scale": 7.99999999999999
+}
